@@ -1,7 +1,11 @@
-# Python-InstacartAnalysis
+![image](https://github.com/NegarNikeghbali/Python-InstacartAnalysis/assets/169043785/4cae480e-8b19-4806-a0fa-0c73021d95ff)# Python-InstacartAnalysis
 Population flow diagram was created, Python was used to perform data consistency and wrangling steps, columns derived, analysis performed, visualizations generated and recommendations sent to client.
 
+![Instacart-Basket](https://github.com/NegarNikeghbali/Python-InstacartAnalysis/assets/169043785/197f49a9-8b6b-42fe-8bdd-7e02f554679d)
+
 ### Objective
+![image](https://github.com/NegarNikeghbali/Python-InstacartAnalysis/assets/169043785/80648883-1530-4713-9750-4ae792049683)
+
 
 Instacart, an online grocery store already has very good sales, but they want to uncover more information about their sales patterns. As an analyst my task was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
